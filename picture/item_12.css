@@ -1,0 +1,26 @@
+/* ----------------------------------------------------
+   created with http://www.codeandweb.com/texturepacker 
+   ----------------------------------------------------
+   $TexturePacker:SmartUpdate:0b89e0ed0de32faa1e5d4ef5d125995a:fc7aaa594853f3a6ffb6de1c567e5ed0:3215a8d30aa4d4df61d69d9b23bcc99a$
+   ----------------------------------------------------
+
+   usage: <span class="{-spritename-} sprite"></span>
+
+   replace {-spritename-} with the sprite you like to use
+
+*/
+
+.sprite {display:inline-block; overflow:hidden; background-repeat: no-repeat;background-image:url(item_12.png);}
+
+.CrystalBall01 {width:69px; height:69px; background-position: -1px -203px}
+.CrystalBall02 {width:69px; height:69px; background-position: -1px -274px}
+.CrystalBall03 {width:69px; height:69px; background-position: -1px -345px}
+.CrystalBall04 {width:69px; height:69px; background-position: -1px -416px}
+.CrystalBall05 {width:69px; height:69px; background-position: -1px -487px}
+.CrystalBall06 {width:69px; height:69px; background-position: -1px -558px}
+.StaticItem01 {width:62px; height:64px; background-position: -1px -757px}
+.StaticItem02 {width:70px; height:70px; background-position: -1px -1px}
+.StaticItem03 {width:70px; height:60px; background-position: -1px -141px}
+.StaticItem04 {width:68px; height:58px; background-position: -1px -629px}
+.StaticItem05 {width:70px; height:66px; background-position: -1px -73px}
+.StaticItem06 {width:66px; height:66px; background-position: -1px -689px}
